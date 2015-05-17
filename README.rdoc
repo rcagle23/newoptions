@@ -1,0 +1,7 @@
+== README
+
+## new_options: a test app to understand the rails new command line tool and its options
+
+I used the --skip-git option when creating this new app, which skips the .gitignore file. A .gitignore file is a file that lets Git know which files to skip when making a commit. I believe the --skip-git option makes it so that any gitignore file created would not be shared with others in the respository, but I'm not sure about this. 
+
+Made for the Basic Rails app assignment at [Bloc](http://bloc.io).
